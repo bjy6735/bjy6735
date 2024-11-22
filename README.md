@@ -8,7 +8,6 @@
 
 </div>
 
------
 
 ## :wind_chime: basic information :loop: :bulb:
 I'll introduce myself.
@@ -20,7 +19,12 @@ I'll introduce myself.
 | :sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
 |:----------:|:-----------:|:-----------:|
 | music algorithm | achieving independence | mastering stable diffusion |
-|  interactive art | belonging to the music market ( in any way possible ) | photato |
+|  interactive art | belonging to the music market ( in any way possible ) | mastering python |
+
+## :telescope: Tech Stack
+### languages
+
+### other programs
 
 ## Conect - me
 
@@ -29,8 +33,8 @@ I'll introduce myself.
 
 <div align=center>
 	
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](mailto:jiyoon6735@gmail.com)
- [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](mailto:jiyoon6735@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv)
 
 	
 </div>
