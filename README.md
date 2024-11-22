@@ -34,38 +34,27 @@ I'll introduce myself.
 [![Maya Badge](https://img.shields.io/badge/Maya-1C7C87?style=flat-square&logo=Autodesk-Maya&logoColor=white)](https://www.autodesk.com/products/maya/overview) : 13% &nbsp;
 [![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-0091C8?style=flat-square&logo=Autodesk-AutoCAD&logoColor=white)](https://www.autodesk.com/products/autocad/overview) : 48% &nbsp;
 
-# GitHub 통계 및 활동
+## Projects
+* video
+  * dd
+ 
+* p5js - color of voice <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
 
-## 📈 활동 통계
-
-[![GitHub commits](https://img.shields.io/github/commits-since/<bjy6735>/<repository>/master?style=flat-square&color=yellow&label=Commits)](https://github.com/<bjy6735>/<repository>)  
-[![GitHub PRs](https://img.shields.io/github/issues-pr/<bjy6735>/<repository>?style=flat-square&color=blue&label=Pull%20Requests)](https://github.com/<bjy6735>/<repository>/pulls)  
-[![GitHub Issues](https://img.shields.io/github/issues/<bjy6735>/<repository>?style=flat-square&color=red&label=Issues)](https://github.com/<bjy6735>/<repository>/issues)
-
-## ⭐ GitHub 인기
-
-[![GitHub stars](https://img.shields.io/github/stars/<bjy6735>/<repository>?style=flat-square&color=green&label=Stars)](https://github.com/<bjy6735>/<repository>/stargazers)  
-[![GitHub Top Language](https://img.shields.io/github/languages/top/<bjy6735>/<repository>?style=flat-square)](https://github.com/<bjy6735>/<repository>)  
-[![GitHub contributors](https://img.shields.io/github/contributors/<bjy6735>/<repository>?style=flat-square&color=blue)](https://github.com/<bjy6735>/<repository>/graphs/contributors)
-
-## 🏆 기여도
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<bjy6735>&show_icons=true&hide_title=true&hide=prs&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<bjy6735>&langs_count=8&layout=compact)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=<bjy6735>&theme=gruvbox)](https://github.com/<username>)
-
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/foe-xx6yx)](https://www.youtube.com/channel/foe-xx6yx)
+https://www.youtube.com/@foe-xx6yx
 
 ## Conect - me
+### Let’s Build Something Amazing Together!
 
-* Gmail : jiyoon6735@gmail.com
-* Instagram : @vllolollv
+Your contributions matter! Whether it’s a small tweak or a big idea, every effort shapes the future of this project. Join us, and let’s make an impact—together!
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](mailto:jiyoon6735@gmail.com) : jiyoon6735@gmail.com
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv) : @vllolollv
 
 <div align=center>
-	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](mailto:jiyoon6735@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv)
-
 	
 </div>
 
 <div align=center>
+	
+[![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=bjy6735)](https://github.com/bjy6735/github-readme-stats)
