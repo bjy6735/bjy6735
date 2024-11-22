@@ -18,8 +18,7 @@ I'll introduce myself.
 ## :chicken: About...
 | :sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
 |:----------:|:-----------:|:-----------:|
-| music algorithm | achieving independence | mastering stable diffusion |
-|  interactive art | belonging to the music market ( in any way possible ) | mastering python |
+| music algorithm <br> sound technology <br> interactive art | achieving independence <br> belonging to the music market | mastering stable diffusion  <br> mastering python <br> improving english communication skil |
 
 ## :wrench: Tech Stack
 ### languages
@@ -35,15 +34,15 @@ I'll introduce myself.
 [![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-0091C8?style=flat-square&logo=Autodesk-AutoCAD&logoColor=white)](https://www.autodesk.com/products/autocad/overview) : 48% &nbsp;
 
 ## :telescope: Projects 
-:black_joker: color of voice : link : <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
+:black_joker: color of voice : <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
 
 :clapper: 잠(Slumber): A Short Fantasy Film Using Drones
 
-:headphones: dragon shelter : AR healing content using cospaces.io
+:headphones: dragon shelter : AR healing content using cospaces.io : <https://edu.cospaces.io/FAQ-VHY>
 
-:headphones: music station : VR music appreciation using cospaces.io
+:headphones: music station : VR music appreciation using cospaces.io  : <https://edu.cospaces.io/TPA-PCN>
 
-#### :game_die: You may be able to check out my projects on this [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx) :game_die:
+#### :game_die: You may be able to check out my other projects on this [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx) :game_die:
 
 ## :heart_eyes_cat: Conect - me
 ### Let’s Build Something Amazing Together!
@@ -54,16 +53,16 @@ Gmail : jiyoon6735@gmail.com
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv) @vllolollv
 
+### Thanks!
+
 <div align=center>
 	
 </div>
 
 ---
 
-
 <div align=center>
-
 	
 [![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=bjy6735)](https://github.com/bjy6735/github-readme-stats)
-[![Language Stats](https://img.shields.io/github/languages/count/bjy6735>/<bjy6735>?style=flat-square)](https://github.com/<bjy6735>/<bjy6735>)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjy6735&layout=compact)
 
