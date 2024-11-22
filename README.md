@@ -21,7 +21,7 @@ I'll introduce myself.
 | music algorithm | achieving independence | mastering stable diffusion |
 |  interactive art | belonging to the music market ( in any way possible ) | mastering python |
 
-## :telescope: Tech Stack
+## :wrench: Tech Stack
 ### languages
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org) : 16% &nbsp;
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) : 14% &nbsp;
@@ -34,27 +34,34 @@ I'll introduce myself.
 [![Maya Badge](https://img.shields.io/badge/Maya-1C7C87?style=flat-square&logo=Autodesk-Maya&logoColor=white)](https://www.autodesk.com/products/maya/overview) : 13% &nbsp;
 [![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-0091C8?style=flat-square&logo=Autodesk-AutoCAD&logoColor=white)](https://www.autodesk.com/products/autocad/overview) : 48% &nbsp;
 
-## Projects
-* video
-  * dd
- 
-* p5js - color of voice <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
+## :telescope: Projects 
+:black_joker: color of voice : link : <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx)
-https://www.youtube.com/@foe-xx6yx
+:clapper: 잠(Slumber): A Short Fantasy Film Using Drones
 
-## Conect - me
+:headphones: dragon shelter : AR healing content using cospaces.io
+
+:headphones: music station : VR music appreciation using cospaces.io
+
+#### :game_die: You may be able to check out my projects on this [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx) :game_die:
+
+## :heart_eyes_cat: Conect - me
 ### Let’s Build Something Amazing Together!
 
 Your contributions matter! Whether it’s a small tweak or a big idea, every effort shapes the future of this project. Join us, and let’s make an impact—together!
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](mailto:jiyoon6735@gmail.com) : jiyoon6735@gmail.com
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv) : @vllolollv
+Gmail : jiyoon6735@gmail.com
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv) @vllolollv
 
 <div align=center>
 	
 </div>
 
+---
+
+
 <div align=center>
+
 	
 [![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=bjy6735)](https://github.com/bjy6735/github-readme-stats)
