@@ -23,6 +23,8 @@ I'll introduce myself.
 
 ## :telescope: Tech Stack
 ### languages
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
 
 ### other programs
 
