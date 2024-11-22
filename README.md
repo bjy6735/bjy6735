@@ -9,11 +9,11 @@
 </div>
 
 
-## :wind_chime: basic information :loop: :bulb:
+## :wind_chime: basic information
 I'll introduce myself.
-* **my age** : 20 ( 2005~ ) _______ :bulb:_____:loop::loop::loop:
-* **my major** : ART&TECH ____ :bulb:_:bulb: ______:loop:
-* **where i live** : Korea ______ :bulb:____:bulb: _____:loop:
+* **my age** : 20 ( 2005~ )
+* **my major** : ART&TECH
+* **where i live** : Korea
 
 ## :chicken: About...
 | :sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
@@ -23,10 +23,37 @@ I'll introduce myself.
 
 ## :telescope: Tech Stack
 ### languages
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org) : 16% &nbsp;
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) : 14% &nbsp;
+[![MATLAB Badge](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=MATLAB&logoColor=white)](https://www.mathworks.com/products/matlab.html) : 10% &nbsp;
 
 ### other programs
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) : 17% &nbsp;
+[![Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) : 15% &nbsp;
+[![Premiere Pro Badge](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white)](https://www.adobe.com/products/premiere.html) : 28% &nbsp;
+[![Maya Badge](https://img.shields.io/badge/Maya-1C7C87?style=flat-square&logo=Autodesk-Maya&logoColor=white)](https://www.autodesk.com/products/maya/overview) : 13% &nbsp;
+[![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-0091C8?style=flat-square&logo=Autodesk-AutoCAD&logoColor=white)](https://www.autodesk.com/products/autocad/overview) : 48% &nbsp;
+
+# GitHub 통계 및 활동
+
+## 📈 활동 통계
+
+[![GitHub commits](https://img.shields.io/github/commits-since/<username>/<repository>/master?style=flat-square&color=yellow&label=Commits)](https://github.com/<username>/<repository>)  
+[![GitHub PRs](https://img.shields.io/github/issues-pr/<username>/<repository>?style=flat-square&color=blue&label=Pull%20Requests)](https://github.com/<username>/<repository>/pulls)  
+[![GitHub Issues](https://img.shields.io/github/issues/<username>/<repository>?style=flat-square&color=red&label=Issues)](https://github.com/<username>/<repository>/issues)
+
+## ⭐ GitHub 인기
+
+[![GitHub stars](https://img.shields.io/github/stars/<username>/<repository>?style=flat-square&color=green&label=Stars)](https://github.com/<username>/<repository>/stargazers)  
+[![GitHub Top Language](https://img.shields.io/github/languages/top/<username>/<repository>?style=flat-square)](https://github.com/<username>/<repository>)  
+[![GitHub contributors](https://img.shields.io/github/contributors/<username>/<repository>?style=flat-square&color=blue)](https://github.com/<username>/<repository>/graphs/contributors)
+
+## 🏆 기여도
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&hide_title=true&hide=prs&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&langs_count=8&layout=compact)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=<username>&theme=gruvbox)](https://github.com/<username>)
+
 
 ## Conect - me
 
@@ -40,7 +67,5 @@ I'll introduce myself.
 
 	
 </div>
-
-
 
 <div align=center>
