@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align=center>
+	
+# Hi :fish: I'm JIYOON :beetle: call me YOON :tropical_fish:
 
-<!--
-**bjy6735/bjy6735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-Here are some ideas to get you started:
+![대지 1,jpg](https://github.com/user-attachments/assets/bc82e3e4-b6d9-4489-a420-f5b2096a7a8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+-----
+
+## :wind_chime: basic information :loop: :bulb:
+I'll introduce myself.
+* **my age** : 20 ( 2005~ ) _______ :bulb:_____:loop::loop::loop:
+* **my major** : ART&TECH ____ :bulb:_:bulb: ______:loop:
+* **where i live** : Korea ______ :bulb:____:bulb: _____:loop:
+
+## :chicken: About...
+| :sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
+|:----------:|:-----------:|:-----------:|
+| music algorithm | achieving independence | mastering stable diffusion |
+|  interactive art | belonging to the music market ( in any way possible ) | photato |
+
+## Conect - me
+
+* Gmail : jiyoon6735@gmail.com
+* Instagram : @vllolollv
+
+<div align=center>
+	
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](mailto:jiyoon6735@gmail.com)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv)
+
+	
+</div>
+
+
+
+<div align=center>
