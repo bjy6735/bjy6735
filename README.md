@@ -40,7 +40,7 @@ I'll introduce myself.
  
 * p5js - color of voice <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/foe-xx6yx)](https://www.youtube.com/c/foe-xx6yx)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx)
 https://www.youtube.com/@foe-xx6yx
 
 ## Conect - me
