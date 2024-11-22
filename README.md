@@ -25,6 +25,7 @@ I'll introduce myself.
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org) : 16% &nbsp;
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) : 14% &nbsp;
 [![MATLAB Badge](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=MATLAB&logoColor=white)](https://www.mathworks.com/products/matlab.html) : 10% &nbsp;
+**actually I'm not a good programer "yet".**
 
 ### other programs
 [![Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) : 17% &nbsp;
@@ -47,7 +48,7 @@ I'll introduce myself.
 ## :heart_eyes_cat: Conect - me
 ### Let’s Build Something Amazing Together!
 
-Your contributions matter! Whether it’s a small tweak or a big idea, every effort shapes the future of this project. Join us, and let’s make an impact—together!
+Your contributions matter! Whether it’s a small tweak or a big idea, every effort shapes the future of this project. Join us, and let’s make an impact—together! :baby::smirk:
 
 Gmail : jiyoon6735@gmail.com
 
