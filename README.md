@@ -38,21 +38,21 @@ I'll introduce myself.
 
 ## 📈 활동 통계
 
-[![GitHub commits](https://img.shields.io/github/commits-since/<username>/<repository>/master?style=flat-square&color=yellow&label=Commits)](https://github.com/<username>/<repository>)  
-[![GitHub PRs](https://img.shields.io/github/issues-pr/<username>/<repository>?style=flat-square&color=blue&label=Pull%20Requests)](https://github.com/<username>/<repository>/pulls)  
-[![GitHub Issues](https://img.shields.io/github/issues/<username>/<repository>?style=flat-square&color=red&label=Issues)](https://github.com/<username>/<repository>/issues)
+[![GitHub commits](https://img.shields.io/github/commits-since/<bjy6735>/<repository>/master?style=flat-square&color=yellow&label=Commits)](https://github.com/<bjy6735>/<repository>)  
+[![GitHub PRs](https://img.shields.io/github/issues-pr/<bjy6735>/<repository>?style=flat-square&color=blue&label=Pull%20Requests)](https://github.com/<bjy6735>/<repository>/pulls)  
+[![GitHub Issues](https://img.shields.io/github/issues/<bjy6735>/<repository>?style=flat-square&color=red&label=Issues)](https://github.com/<bjy6735>/<repository>/issues)
 
 ## ⭐ GitHub 인기
 
-[![GitHub stars](https://img.shields.io/github/stars/<username>/<repository>?style=flat-square&color=green&label=Stars)](https://github.com/<username>/<repository>/stargazers)  
-[![GitHub Top Language](https://img.shields.io/github/languages/top/<username>/<repository>?style=flat-square)](https://github.com/<username>/<repository>)  
-[![GitHub contributors](https://img.shields.io/github/contributors/<username>/<repository>?style=flat-square&color=blue)](https://github.com/<username>/<repository>/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/<bjy6735>/<repository>?style=flat-square&color=green&label=Stars)](https://github.com/<bjy6735>/<repository>/stargazers)  
+[![GitHub Top Language](https://img.shields.io/github/languages/top/<bjy6735>/<repository>?style=flat-square)](https://github.com/<bjy6735>/<repository>)  
+[![GitHub contributors](https://img.shields.io/github/contributors/<bjy6735>/<repository>?style=flat-square&color=blue)](https://github.com/<bjy6735>/<repository>/graphs/contributors)
 
 ## 🏆 기여도
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&hide_title=true&hide=prs&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&langs_count=8&layout=compact)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=<username>&theme=gruvbox)](https://github.com/<username>)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<bjy6735>&show_icons=true&hide_title=true&hide=prs&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<bjy6735>&langs_count=8&layout=compact)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=<bjy6735>&theme=gruvbox)](https://github.com/<username>)
 
 
 ## Conect - me
