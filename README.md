@@ -10,15 +10,22 @@
 
 
 ## :wind_chime: basic information
-I'll introduce myself.
-* **my age** : 20 ( 2005~ )
-* **my major** : ART&TECH
-* **where i live** : Korea
+I'll introduce myself. <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlvcnluYzRscWtxMjFvanFwb3IwbTN3aDV4bGJzb3M4bTNvdWxyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp" align="right" width="200"/>
+* **my age** : 20 ( 2005~ ) :blush:
+* **my major** : ART&TECH 🖌️💻
+* **where i'm from** : Korea
+* **home town** : Jeonju, Korea
+
 
 ## :chicken: About...
+<div align=center>
+	
 | :sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
 |:----------:|:-----------:|:-----------:|
-| music algorithm <br> sound technology <br> interactive art | achieving independence <br> belonging to the music market | mastering stable diffusion  <br> mastering python <br> improving english communication skil |
+| music🎵algorithm <br> sound🎵technology <br> interactive art | achieving independence <br> belonging to the music market | mastering stable diffusion  <br> mastering python <br> improving english communication skil |
+
+</div>
+
 
 ## :wrench: Tech Stack
 ### languages
@@ -34,25 +41,26 @@ I'll introduce myself.
 [![Maya Badge](https://img.shields.io/badge/Maya-1C7C87?style=flat-square&logo=Autodesk-Maya&logoColor=white)](https://www.autodesk.com/products/maya/overview) : 13% &nbsp;
 [![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-0091C8?style=flat-square&logo=Autodesk-AutoCAD&logoColor=white)](https://www.autodesk.com/products/autocad/overview) : 48% &nbsp;
 
+
 ## :telescope: Projects 
-:black_joker: color of voice : <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
+:black_joker: **color of voice** : A project using p5.js that assigns a color to an individual's voice : <https://editor.p5js.org/bjy6735/full/1GYRbztzk>
 
-:clapper: 잠(Slumber): A Short Fantasy Film Using Drones
+:clapper: **잠(Slumber)** : a short fantasy film using Dron
 
-:headphones: dragon shelter : AR healing content using cospaces.io : <https://edu.cospaces.io/FAQ-VHY>
+:headphones: **dragon shelter** : AR healing content using cospaces.io : <https://edu.cospaces.io/FAQ-VHY> <img src= "https://github.com/user-attachments/assets/e2fd795f-5c0a-43a0-8be0-17a2d17783d0" align="right" width="250"/>
 
-:headphones: music station : VR music appreciation using cospaces.io  : <https://edu.cospaces.io/TPA-PCN>
+:headphones: **music station** : VR music appreciation using cospaces.io  : <https://edu.cospaces.io/TPA-PCN>
 
 #### :game_die: You may be able to check out my other projects on this [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx) :game_die:
+
 
 ## :heart_eyes_cat: Conect - me
 ### Let’s Build Something Amazing Together!
 
-Your contributions matter! Whether it’s a small tweak or a big idea, every effort shapes the future of this project. Join us, and let’s make an impact—together! :baby::smirk:
+Your contributions matter! Whether it’s a small tweak or a big idea, every effort shapes the future of this project. Join us, and let’s make an impact—together! :baby::smirk: Connect to me without hesitation.
 
-Gmail : jiyoon6735@gmail.com
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv) @vllolollv
+* Gmail : jiyoon6735@gmail.com
+* [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv) @vllolollv
 
 ### Thanks!
 
