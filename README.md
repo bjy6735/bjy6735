@@ -65,3 +65,5 @@ Gmail : jiyoon6735@gmail.com
 
 	
 [![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=bjy6735)](https://github.com/bjy6735/github-readme-stats)
+[![Language Stats](https://img.shields.io/github/languages/count/bjy6735>/<bjy6735>?style=flat-square)](https://github.com/<bjy6735>/<bjy6735>)
+
