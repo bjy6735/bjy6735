@@ -4,8 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-![대지 1,jpg](https://github.com/user-attachments/assets/bc82e3e4-b6d9-4489-a420-f5b2096a7a8a)
-
 </div>
 
 
